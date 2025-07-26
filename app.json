@@ -47,6 +47,10 @@
       "N8N_DB_PASSWORD": {
         "description": "postgres pass",
         "value": ""
+      },
+      "N8N_DB_POSTGRESDB_SCHEMA": {
+        "description": "postgres SCHEMA",
+        "value": "dulieu_congviec"
       }
     },
     "addons": [
