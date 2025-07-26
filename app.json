@@ -7,7 +7,7 @@
       "automation"
     ],
     "website": "https://n8n.io",
-    "repository": "https://github.com/n8n-io/n8n-heroku",
+    "repository": "https://github.com/tminhnhat/n8n-heroku-fn",
     "logo": "https://raw.githubusercontent.com/n8n-io/n8n-heroku/main/n8n_logo.png",
     "success_url": "/",
     "stack": "container",
@@ -30,7 +30,7 @@
       },
       "N8N_DB_HOST": {
         "description": "database url",
-        "value": "localhost"
+        "value": "aws-0-ap-southeast-1.pooler.supabase.com"
       },
       "N8N_DB_PORT": {
         "description": "database port",
@@ -42,7 +42,7 @@
       },
       "N8N_DB_USER": {
         "description": "postgres user",
-        "value": "postgres"
+        "value": "postgres.yufuxgibfmkqtvvlprmv"
       },
       "N8N_DB_PASSWORD": {
         "description": "postgres pass",
