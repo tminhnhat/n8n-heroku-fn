@@ -54,7 +54,7 @@
       },
       "DATABASE_URL": {
         "description": "data url full",
-        "value": "postgresql://postgres.yufuxgibfmkqtvvlprmv:tiendien9XX@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
+        "value": "postgresql://postgres.yufuxgibfmkqtvvlprmv:yourpassword@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
       }
     },
     "addons": [
