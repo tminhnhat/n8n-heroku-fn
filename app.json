@@ -31,6 +31,7 @@
       "N8N_REINSTALL_MISSING_PACKAGES": {
         "description": "N8N_REINSTALL_MISSING_PACKAGES",
         "value": "true"
+      }
       },
     "addons": [
       {
