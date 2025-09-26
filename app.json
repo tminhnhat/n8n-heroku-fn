@@ -28,35 +28,10 @@
         "description": "SSL is required to connect to Postgres on Heroku",
         "value": "false"
       },
-      "N8N_DB_HOST": {
-        "description": "database url",
-        "value": "aws-0-ap-southeast-1.pooler.supabase.com"
+      "N8N_REINSTALL_MISSING_PACKAGES": {
+        "description": "N8N_REINSTALL_MISSING_PACKAGES",
+        "value": "true"
       },
-      "N8N_DB_PORT": {
-        "description": "database port",
-        "value": "6543"
-      },
-      "N8N_DB_DATABASE": {
-        "description": "database",
-        "value": "postgres"
-      },
-      "N8N_DB_USER": {
-        "description": "postgres user",
-        "value": "postgres.yufuxgibfmkqtvvlprmv"
-      },
-      "N8N_DB_PASSWORD": {
-        "description": "postgres pass",
-        "value": ""
-      },
-      "N8N_DB_POSTGRESDB_SCHEMA": {
-        "description": "postgres SCHEMA",
-        "value": "dulieu_congviec"
-      },
-      "DATABASE_URL": {
-        "description": "data url full",
-        "value": "postgresql://postgres.yufuxgibfmkqtvvlprmv:yourpassword@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
-      }
-    },
     "addons": [
       {
         "plan": "heroku-postgresql",
